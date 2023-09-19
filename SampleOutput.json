@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Stoyan Nenov",
+            "title": "Bulgaria sends team to inspect drone that landed in Black Sea resort - Reuters",
+            "description": "Bulgaria's defence ministry said on Monday it had sent a special unit to inspect and deactivate a drone carrying explosives which landed on Sunday evening in the Black Sea town of Tyulenovo.",
+            "url": "https://www.reuters.com/world/europe/bulgaria-sends-team-inspect-drone-landed-black-sea-resort-2023-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/Z7Lbw98v6ow9thqJpvd68cOR-_I=/1080x565/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TPHFUQJTZNIF3DQSGLFITDDZHM.jpg",
+            "publishedAt": "2023-09-18T10:16:00Z",
+            "content": "SOFIA, Sept 18 (Reuters) - Bulgaria's defence ministry said on Monday it had sent a special unit to inspect and deactivate a drone carrying explosives which landed on Sunday evening in the Black Sea … [+1938 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Nell Mackenzie, Stella Qiu",
+            "title": "Growth jitters knock global stocks before central bank-packed week - Reuters",
+            "description": "World shares fell while the dollar firmed on Monday as growth concerns tested investors' mettle ahead of a week brimming with central bank meetings in countries including Norway, Sweden, Switzerland, Britain, the United States and Japan.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-pix-2023-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/TaeZ6bal_LPkjy6dxStleicdmL8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RXCZS7PQGNOFJDUANWV7RWKHFU.jpg",
+            "publishedAt": "2023-09-18T09:32:00Z",
+            "content": "SYDNEY, Sept 18 (Reuters) - World shares fell while the dollar firmed on Monday as growth concerns tested investors' mettle ahead of a week brimming with central bank meetings in countries including … [+4006 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler, Rob Picheta",
+            "title": "Five Americans detained in Iran expected to be freed Monday, Iranian foreign ministry says - CNN",
+            "description": "Five Americans who have been imprisoned in Iran are expected to be released Monday as part of a wider US-Iran deal, an Iranian Foreign Ministry spokesman has said.",
+            "url": "https://www.cnn.com/2023/09/18/politics/iran-us-prisoner-release-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810121506-americans-wrongfully-detained-iran-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-18T09:28:00Z",
+            "content": "Five Americans who have been imprisoned in Iran are expected to be released Monday as part of a wider US-Iran deal, an Iranian Foreign Ministry spokesman has said.\r\nThe US government has designated a… [+1699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFLA"
+            },
+            "author": "Katlyn Brieskorn",
+            "title": "Hurricane Nigel forms, expected to rapidly intensify into major hurricane - WFLA",
+            "description": "Nigel strengthened into a hurricane overnight and is expected to rapidly strengthen by Tuesday, the National Hurricane Center said.",
+            "url": "https://www.wfla.com/weather/tracking-the-tropics/hurricane-nigel-forms-expected-to-rapidly-intensify-into-major-hurricane/",
+            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2023/09/TROPICS-SATELLITE-INFRARED-2022-10.png?w=1280",
+            "publishedAt": "2023-09-18T09:22:39Z",
+            "content": "TAMPA, Fla. (WFLA) Nigel strengthened into a hurricane overnight, becoming the 14th named storm of the Atlantic hurricane season. \r\nAccording to the National Hurricane Center, Nigel is expected to ra… [+1237 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Tyreek Hill: New England fans are some of the worst fans in the NFL - NBC Sports",
+            "description": "Dolphins wide receiver Tyreek Hill said he took special pleasure in winning in New England on Sunday night.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hill-new-england-fans-are-some-of-the-worst-fans-in-the-nfl",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/2664121/2147483647/strip/true/crop/4800x2700+0+250/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Ff7%2F79%2F323ed7e2457f897d375c8d99cec3%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1687714706",
+            "publishedAt": "2023-09-18T09:00:20Z",
+            "content": "Dolphins wide receiver Tyreek Hill said he took special pleasure in winning in New England on Sunday night.\r\nHill said Patriots fans were jeering him with language he didnt want to repeat, and that m… [+544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "Turkish President Erdogan invites Elon Musk to build his next Tesla factory in Turkey - CNBC",
+            "description": "Erdogan met with the Tesla and SpaceX CEO in New York while visiting the U.S. for the United Nations General Assembly.",
+            "url": "https://www.cnbc.com/2023/09/18/erdogan-invites-elon-musk-to-build-his-next-tesla-factory-in-turkey.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107300155-1694619606368-gettyimages-1662847761-AI_CEOs_503_091323.jpeg?v=1695026083&w=1920&h=1080",
+            "publishedAt": "2023-09-18T08:34:43Z",
+            "content": "Elon Musk, CEO of Tesla and owner of X, arrives for the Inaugural AI Insight Forum in Russell Building on Capitol Hill, on Wednesday, September 13, 2023.\r\nTurkish President Recep Tayyip Erdogan invit… [+4986 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Unity apologizes and promises to change its controversial game install fee policy - Engadget",
+            "description": "Last week, Unity dropped a bomb on developers with a new runtime fee, and now the company appears to be backtracking.",
+            "url": "https://www.engadget.com/unity-apologizes-and-promises-to-change-its-controversial-game-install-fee-policy-082408455.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pU9s_bZfCTgGJdo8pZyEQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/d65bdde0-bbf1-11ec-bfd7-31707152db98",
+            "publishedAt": "2023-09-18T08:24:08Z",
+            "content": "Last week, Unity dropped a bomb on developers with a new runtime fee on its game engine that would be charged each time a title is installed summed up by one developer as an \"abysmally catastrophic d… [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Rifle, fur hat, drones: North Korea's Kim returns with gifts from Russia - Reuters",
+            "description": "North Korean leader Kim Jong Un is heading home on Monday, most likely with gifts from his <a href=\"/world/north-koreas-kim-heads-home-after-final-stop-russias-vladivostok-kcna-2023-09-17/\">Russian</a> hosts including a rifle, a cosmonaut's glove, and militar…",
+            "url": "https://www.reuters.com/world/rifle-fur-hat-drones-north-koreas-kim-returns-with-gifts-russia-2023-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/JZQpF1pBdCwhRrmPB12N7OP9YjI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PLOLRQURB5MI3P5QO7NMNTKNT4.jpg",
+            "publishedAt": "2023-09-18T06:41:26Z",
+            "content": "SEOUL, Sept 18 (Reuters) - North Korean leader Kim Jong Un is heading home on Monday, most likely with gifts from his Russian hosts including a rifle, a cosmonaut's glove, and military drones - which… [+3496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Naspers, Prosus CEO Bob van Dijk steps down - CNBC",
+            "description": "Ervin Tu will assume the role of interim chief executive of both companies.",
+            "url": "https://www.cnbc.com/2023/09/18/naspers-prosus-ceo-bob-van-dijk-steps-down.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106123387-1568185989975gettyimages-1166232188.jpeg?v=1695016566&w=1920&h=1080",
+            "publishedAt": "2023-09-18T05:56:06Z",
+            "content": "Dutch-listed technology investor Prosus NV and its South African parent Naspers said on Monday Bob van Dijk has stepped down as chief executive officer from both companies.\r\nVan Dijk, who has led Nas… [+368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kimberly Nordyke",
+            "title": "Chris Rock Sought Counseling After Being Slapped by Will Smith at the Oscars, Says Leslie Jones - Hollywood Reporter",
+            "description": "\"That s**t was humiliating,\" says Jones, a longtime friend of the comedian. \"It really affected him.\"",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-rock-counseling-will-smith-oscars-slap-1235592606/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/09/leslie-rock-smith.jpeg?w=1024",
+            "publishedAt": "2023-09-18T04:59:31Z",
+            "content": "Leslie Jones says that her friend Chris Rock sought counseling after being slapped by Will Smith at the 2022 Oscars.\r\n“That shit was humiliating,” she toldPeople. “It really affected him. People need… [+3503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kareem Khadder, Eyad Kourdi, Richard Green",
+            "title": "UNESCO designates ancient Jericho ruins as World Heritage Site, sparking Israeli ire - CNN",
+            "description": "The United Nations World Heritage Committee voted Sunday to list the Tell es-Sultan archaeological site in Jericho as a “World Heritage Site in Palestine.”",
+            "url": "https://www.cnn.com/travel/article/unesco-jericho-ruins-tell-es-sultan/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230917174735-17b-unesco-world-heritage-list-2023-tel-es-sultan.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-18T04:19:00Z",
+            "content": "The United Nations World Heritage Committee voted Sunday to list the Tell es-Sultan archaeological site in Jericho as a World Heritage Site in Palestine.\r\nThe decision was made at a conference held i… [+1992 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "China flies 103 military planes toward Taiwan in a new high of activity the island calls harassment - ABC News",
+            "description": "China has flown 103 military planes toward Taiwan in a new daily high for the activity the island considers harassment",
+            "url": "https://abcnews.go.com/International/wireStory/taiwan-103-chinese-warplanes-flew-island-new-daily-103269405",
+            "urlToImage": "https://i.abcnewsfe.com/a/3b20f705-3cc2-45ba-b277-8c3264fb1a13/wirestory_b8a78493341bd3af15f4fd58be692e4d_16x9.jpg?w=992",
+            "publishedAt": "2023-09-18T03:14:36Z",
+            "content": "TAIPEI, Taiwan -- Chinas military sent 103 warplanes toward Taiwan in a 24-hour period in what the islands defense ministry called a recent new high.\r\nThe planes were detected between 6 a.m. on Sunda… [+2768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Zak Keefer",
+            "title": "What we learned in Week 2: Giants are resilient, Bengals, Chargers look off and more - The Athletic",
+            "description": "A day that featured two remarkable comebacks also served as a reminder that two teams perceived as AFC's best are still in that class.",
+            "url": "https://theathletic.com/4872265/2023/09/17/nfl-week-2-lessons-questions-giants-bengals-chargers/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/09/17204602/GettyImages-1687477727-scaled-e1694997994720.jpg",
+            "publishedAt": "2023-09-18T02:36:10Z",
+            "content": "From the depths of 60-0 deficit six quarters into their season, and a 21-point third-quarter hole Sunday in Arizona, the Giants suddenly, improbably, have life.\r\nThe 49ers have somehow won nine strai… [+9672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "4th Wave in U.S. Overdose Crisis: 50x Surge in Deaths From Fentanyl Laced Stimulants - SciTechDaily",
+            "description": "The trend marks the fourth wave in the US overdose crisis, which began with prescription opioid deaths in the early 2000s and has since continued with other drugs. New UCLA-led research has found that the proportion of US overdose deaths involving both fentan…",
+            "url": "https://scitechdaily.com/4th-wave-in-u-s-overdose-crisis-50x-surge-in-deaths-from-fentanyl-laced-stimulants/",
+            "urlToImage": "https://scitechdaily.com/images/Drug-Overdose-Addiction-Death.jpg",
+            "publishedAt": "2023-09-18T02:33:55Z",
+            "content": "ByUniversity of California - Los Angeles Health SciencesSeptember 17, 2023\r\nUCLA research identifies a 50-fold increase in US overdose deaths involving fentanyl and stimulants since 2010, marking a c… [+5501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seahawks.com"
+            },
+            "author": null,
+            "title": "Spectacular, Phenomenal Duo Of Geno Smith & Tyler Lockett Come Through In Seahawks Overtime Win - Seahawks.com",
+            "description": "Seattle’s two offensive captains both made big plays down the stretch to help the Seahawks escape Detroit with a 37-31 victory.",
+            "url": "https://www.seahawks.com/news/spectacular-phenomenal-duo-of-geno-smith-tyler-lockett-come-through-in-seahawks-",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/bidtzqhzqkaf9mpudf9t",
+            "publishedAt": "2023-09-18T01:54:38Z",
+            "content": "Lockett, meanwhile, provided eight catches for 59 yards and two scores, including the game-winner in overtime that saw him end the game with a diving effort, reaching the ball to hit the pylon in the… [+1192 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andy Rose",
+            "title": "Two pilots were killed in a collision at a Reno air show - CNN",
+            "description": "Two pilots were killed when their planes collided Sunday during the National Championship Air Races and Air Show in Reno, Nevada, organizers of the event said.",
+            "url": "https://www.cnn.com/2023/09/17/us/reno-nevada-plane-crash/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230917193159-reno-nevada-plane-crash-0917-still.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-18T01:45:00Z",
+            "content": "Two pilots were killed when their planes collided Sunday during the National Championship Air Races and Air Show in Reno, Nevada, organizers of the event said.\r\nAround 2:15 p.m. this afternoon, at th… [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "MICHAEL R. BLOOD",
+            "title": "California lawsuit says oil giants deceived public on climate, seeks funds for storm damage - KCRA Sacramento",
+            "description": "The state of California filed a lawsuit against some of the world’s largest oil and gas companies, claiming they deceived the public about the risks of fossil fuels now faulted for climate change-related storms and wildfires that caused billions of dollars in…",
+            "url": "https://www.kcra.com/article/california-lawsuit-oil-climate-funds-storm-damage/45182150",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/oil-6507a60a7d440.jpg?crop=1.00xw:0.854xh;0,0&resize=1200:*",
+            "publishedAt": "2023-09-18T01:38:00Z",
+            "content": "The state of California filed a lawsuit against some of the worlds largest oil and gas companies, claiming they deceived the public about the risks of fossil fuels now faulted for climate change-rela… [+5280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "jaguars.com"
+            },
+            "author": null,
+            "title": "Jaguars Head Coach Reflects on Week 2 Game vs. Chiefs - jaguars.com",
+            "description": "Senior writer John Oehser examines Jaguars Head Coach Doug Pederson’s post-game press conference following the Jaguars’ 17-9 loss to the Kansas City Chiefs in a 2023 Week 2 game at EverBank Stadium in Jacksonville Sunday",
+            "url": "https://www.jaguars.com/news/coach-pederson-speaks-on-jaguars-chiefs-loss-2023",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/jaguars/hot7r9wr3gxq1cowp0v9",
+            "publishedAt": "2023-09-18T01:20:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "iPhone users to get iOS 17 starting today! Will yours get it? Check full list - HT Tech",
+            "description": "iOS 17 will finally be released to iPhone users around the world after months of rigorous testing. Will your iPhone get it? Also, check out the top features of iOS 17.",
+            "url": "https://tech.hindustantimes.com/mobile/news/iphone-users-to-get-ios-17-starting-today-will-yours-get-it-check-full-list-71694999217782.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2023/09/18/1600x900/apple_1686131973326_1689232520501_1694999333231.jpg",
+            "publishedAt": "2023-09-18T01:09:42Z",
+            "content": "iOS 17 update: Ever since Apple debuted its next big update for iPhones called iOS 17 at the World Wide Developers Conference (WWDC) 2023 on June 5, it has been rigorously testing its features, perfo… [+2512 chars]"
+        }
+    ]
+}
